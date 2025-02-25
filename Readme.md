@@ -13,7 +13,6 @@ This dataset contains information on 100,000 orders made at the Olist Store, Bra
 - Seller information
 - Customer reviews and satisfaction ratings
 
-The data has been anonymized, with company and partner references in the review text replaced with names of Game of Thrones great houses.
 
 ### Dataset Features
 - **Orders**: Basic information about the orders
